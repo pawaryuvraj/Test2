@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         //following are the changes to the file 
         // TODO code application logic here
+        //Rest the head pointer
     }
 
 }
