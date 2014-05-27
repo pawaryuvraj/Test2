@@ -9,9 +9,6 @@ package testproject;
  *
  * @author yuvi
  */
-public class Test1 {
-  public void test()
-    {
-    ///Changess from the master
-    }
+public class Test2 {
+
 }
