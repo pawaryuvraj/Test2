@@ -17,6 +17,7 @@ public class Adddata {
     }
     public void getData()
     {
-
+      //Hello How are you
+      //Hi how are you 
     }
 }
