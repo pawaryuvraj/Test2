@@ -15,4 +15,9 @@ public class Test1 {
     //Changes from the master Tbale
 
    }
+   public void getData1()
+    {
+    //Changes from the master Tbale
+
+   }
 }
