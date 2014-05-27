@@ -10,5 +10,9 @@ package testproject;
  * @author yuvi
  */
 public class GetNewEmpData {
+   public void getData()
+    {
+
+   }
 
 }
