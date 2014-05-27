@@ -10,8 +10,8 @@ package testproject;
  * @author yuvi
  */
 public class Test1 {
-<<<<<<< HEAD
-  public void getData()
+
+  public void getData3()
     {
     //Changes from the master Tbale
 
@@ -21,10 +21,10 @@ public class Test1 {
     //Changes from the master Tbale
 
    }
-=======
+
   public void getdata()
     {
       
   }
->>>>>>> master
+
 }
