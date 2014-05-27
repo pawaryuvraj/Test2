@@ -10,7 +10,7 @@ package testproject;
  * @author yuvi
  */
 public class GetData {
-    public void gatdata()
+    public void gat()
     {
          //Changes from the master Tbale
        
