@@ -13,11 +13,10 @@ public class Adddata {
 
     public void addData()
     {
-        
+        //Changes from the master Tbale
     }
     public void getData()
     {
-      //Hello How are you
-      //Hi how are you 
+      
     }
 }

@@ -12,9 +12,7 @@ package testproject;
 public class GetData {
     public void gatdata()
     {
-        ////////////////////
-        /////////////
-        ///////////////
-        
+         //Changes from the master Tbale
+       
     }
 }

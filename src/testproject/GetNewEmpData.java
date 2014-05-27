@@ -12,9 +12,7 @@ package testproject;
 public class GetNewEmpData {
    public void getData()
     {
-   ///////////////////
-       ///////////////////
-       ///////////////
+    //Changes from the master Tbale
        
    }
 
