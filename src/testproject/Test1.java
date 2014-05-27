@@ -10,5 +10,9 @@ package testproject;
  * @author yuvi
  */
 public class Test1 {
-  
+  public void getData()
+    {
+    //Changes from the master Tbale
+
+   }
 }
